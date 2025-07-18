@@ -64,7 +64,7 @@ dependencies:
   - seaborn>=0.11.0
   - pip
   - pip:
-    - pyautogen>=0.2.0
+    - ag2>=0.2.0
     - yfinance>=0.1.70
 ```
 
@@ -175,7 +175,7 @@ else:
 ### AutoGen Issues
 - Ensure your OpenAI API key is valid and set correctly
 - Check if you have sufficient API credits
-- Try upgrading to the latest version of `pyautogen`
+- Try upgrading to the latest version of `ag2`
 
 ## Performance Metrics
 - **Total Return**: The final cumulative return of the strategy

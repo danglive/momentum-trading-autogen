@@ -103,7 +103,7 @@ dependencies:
       - psutil==7.0.0
       - ptyprocess==0.7.0
       - pure-eval==0.2.3
-      - pyautogen==0.7.5
+      - ag2==0.7.5
       - pycparser==2.22
       - pydantic==2.10.6
       - pydantic-core==2.27.2
