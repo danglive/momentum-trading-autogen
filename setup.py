@@ -13,7 +13,7 @@ setup(
         "numpy>=1.20.0",
         "matplotlib>=3.5.0",
         "yfinance>=0.2.0",
-        "pyautogen>=0.7.0",
+        "ag2>=0.7.0",
         "streamlit>=1.22.0",
         "plotly>=5.13.0",
         "jupyter>=1.0.0",
